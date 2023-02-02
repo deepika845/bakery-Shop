@@ -1,0 +1,20 @@
+.middle-container {
+  background-color: rgb(236, 230, 230);
+  color: white;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
+  top: 0rem;
+  position: sticky;
+  z-index: 5;
+  border-radius: 0.5rem;
+  width: 80%;
+  margin: auto;
+}
+.container-image {
+  border-radius: 0.5rem;
+  width: 15rem;
+  height: 10rem;
+}
